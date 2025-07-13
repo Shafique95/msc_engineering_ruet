@@ -1,7 +1,3 @@
-Here’s a cleaned-up and well-organized version of your handwritten class notes:
-
----
-
 ## 🗓 Date: 13th July
 
 📍 *Room No:* 201

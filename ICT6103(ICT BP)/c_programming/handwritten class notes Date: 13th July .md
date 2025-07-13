@@ -1,8 +1,12 @@
+
+````markdown
+# 🧑‍🏫 Programming Class Log
+
 ## 🗓 Date: 13th July
 
-📍 *Room No:* 201
-🕐 *Class Start Time:* 1:00 PM
-☕ *Office Break:* 11:30 AM
+📍 *Room No:* 201  
+🕐 *Class Start Time:* 1:00 PM  
+☕ *Office Break:* 11:30 AM  
 
 ---
 
@@ -26,15 +30,15 @@
 
 ## 🔤 Data Types:
 
-* Agreement with OS
+* Agreement with OS  
 * Conflict of agreement
 
-Types:
+### Types:
 
-* int (Integer)
-* float
-* char (Character)
-* double
+* `int` (Integer)  
+* `float`  
+* `char` (Character)  
+* `double`
 
 ---
 
@@ -42,47 +46,49 @@ Types:
 
 ### ① Unary Operators
 
-* ++, --
+* `++`, `--`
 
 ### ② Binary Operators
 
-* +, -, *, /, %
+* `+`, `-`, `*`, `/`, `%`
 
 #### Examples:
 
-* 2 % 3 = 2
-* 3 % 2 = 1
-* 3 % 2 = 0 → (Divided 3 by 2 → Reminder 1)
+* `2 % 3 = 2`
+* `3 % 2 = 1`
+* `3 % 2 = 0 → (Divided 3 by 2 → Reminder 1)`
 
 ### 🔁 Division Note:
 
-* -13 % 3 → **Reminder is -1**
+* `-13 % 3 → Reminder is -1`
 
 ---
 
 ## 🔢 Logical Concepts:
 
-* 0 means *False*
+* `0` means *False*  
 * Any non-zero (e.g., 1, -3, 5) means *True*
 
-c
+```c
 if(15) {
     // Executes (True)
 }
-
+````
 
 ---
 
 ## 📌 Additional Notes:
 
-* !0 = True
-* In C, 0 means *False*
+* `!0 = True`
+* In C, `0` means *False*
 * Topics discussed:
 
-  * *Pointers, **Arrays, **Structs*
-* *Increment Operators* (++, --) → Be smart!
+  * *Pointers*
+  * **Arrays**
+  * **Structs**
+* *Increment Operators* (`++`, `--`) → Be smart!
 
-📚 Recommended Book:
+📚 **Recommended Book:**
 
 > “Godfried Book - Programming with C”
 
@@ -91,3 +97,4 @@ if(15) {
 ## 📍 Next Class:
 
 *Topic:* Array and Pointer (Deep Dive)
+

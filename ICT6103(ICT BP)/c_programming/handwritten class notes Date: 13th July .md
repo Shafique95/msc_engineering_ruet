@@ -83,11 +83,10 @@ if(15) {
 * Topics discussed:
 
   * *Pointers, **Arrays, **Structs*
-* *Increment Operators* (++, --) → Use smartly!
+* *Increment Operators* (++, --) → Be smart!
 
 📚 Recommended Book:
 
-> "Let Us C" by Yashavant Kanetkar
 > “Godfried Book - Programming with C”
 
 ---

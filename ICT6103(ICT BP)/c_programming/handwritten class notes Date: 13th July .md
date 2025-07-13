@@ -1,102 +1,98 @@
 
-````markdown
-# 🧠 Programming Class Notes
+---
 
-## 🗓 Date: 13th July  
-📍 **Room No:** 201  
-🕐 **Class Start Time:** 1:00 PM  
-☕ **Office Break:** 11:30 AM  
+## 🗓 Date: 13th July
+
+📍 *Room No:* 201
+🕐 *Class Start Time:* 1:00 PM
+☕ *Office Break:* 11:30 AM
 
 ---
 
-## 🔰 Basic Programming  
-🕧 **Time:** 12:30 PM  
+## 🔰 Basic Programming
 
-### Covered Topics:
+🕧 Time: 12:30 PM
 
-- **OOP (Java)**  
-  - Theory & Practical (combined session)  
-  - Also touched upon:
-    - C
-    - C++
-    - Python  
-    - ✅ *Java (Main Language)*
+### Topics:
 
----
+* *OOP (Java)*
 
-## 🔤 Data Types
+  * Theory & Practical (একসাথে)
+  * Covered:
 
-- **Key Concepts:**
-  - Agreement with OS
-  - Conflict of agreement  
-
-### Types:
-- `int` (Integer)
-- `float`
-- `char` (Character)
-- `double`
+    * C
+    * C++
+    * Python
+    * *Java (Main Language)*
 
 ---
 
-## ➕ Operators
+## 🔤 Data Types:
 
-### ① Unary Operators:
-- `++`, `--`
+* Agreement with OS
+* Conflict of agreement
 
-### ② Binary Operators:
-- `+`, `-`, `*`, `/`, `%`
+Types:
 
-### ⚙️ Examples:
-```c
-2 % 3 = 2
-3 % 2 = 1
--13 % 3 = -1  // Important division note
-````
+* int (Integer)
+* float
+* char (Character)
+* double
 
 ---
 
-## 🔢 Logical Concepts
+## ➕ Operators:
 
-* `0` → **False**
-* Any non-zero (e.g., `1`, `-3`, `5`) → **True**
+### ① Unary Operators
 
-```c
-if (15) {
-    // Executes, because it's TRUE
+* ++, --
+
+### ② Binary Operators
+
+* +, -, *, /, %
+
+#### Examples:
+
+* 2 % 3 = 2
+* 3 % 2 = 1
+* 3 % 2 = 0 → (Divided 3 by 2 → Reminder 1)
+
+### 🔁 Division Note:
+
+* -13 % 3 → **Reminder is -1**
+
+---
+
+## 🔢 Logical Concepts:
+
+* 0 means *False*
+* Any non-zero (e.g., 1, -3, 5) means *True*
+
+c
+if(15) {
+    // Executes (True)
 }
-```
+
 
 ---
 
-## 📌 Additional Notes
+## 📌 Additional Notes:
 
-* `!0` = **True**
-* In C, `0` means **False**
+* !0 = True
+* In C, 0 means *False*
+* Topics discussed:
 
-### Topics Also Discussed:
+  * *Pointers, **Arrays, **Structs*
+* *Increment Operators* (++, --) → Use smartly!
 
-* `Pointers`
-* `Arrays`
-* `Structs`
-* `Increment Operators` (++, --) — use them **smartly**
+📚 Recommended Book:
 
----
-
-## 📚 Recommended Books
-
-* 📘 *Let Us C* by **Yashavant Kanetkar**
-* 📘 *Programming with C* by **Godfried**
+> "Let Us C" by Yashavant Kanetkar
+> “Godfried Book - Programming with C”
 
 ---
 
-## 📍 Next Class
+## 📍 Next Class:
 
-**Topic:** Deep Dive into **Array** and **Pointer**
-
----
-
-> *If you'd like this note as a downloadable PDF or Word file, feel free to request!*
-
-````
-
+*Topic:* Array and Pointer (Deep Dive)
 
